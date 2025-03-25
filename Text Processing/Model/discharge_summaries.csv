@@ -1,0 +1,31 @@
+report,summary
+"Patient: Jane Smith, 67-year-old female
+Admitting Diagnosis: Pneumonia, community-acquired
+Hospital Course: The patient was admitted with acute respiratory distress, fever, and cough. Chest X-ray confirmed pneumonia in the right lower lobe. She was started on intravenous antibiotics and oxygen therapy. The patient’s symptoms improved after 3 days of treatment. Her fever subsided, and she was able to maintain oxygen saturation at 94% on room air. She was stable for discharge after completing a 5-day course of antibiotics.
+Discharge Diagnosis: Pneumonia, community-acquired
+Discharge Medications: Amoxicillin 500 mg three times a day for 5 days, acetaminophen 500 mg as needed for fever
+Follow-Up: The patient is to follow up with her primary care physician in 1 week for a post-treatment evaluation and chest X-ray.","67-year-old female with community-acquired pneumonia, treated with IV antibiotics and oxygen therapy, discharged with follow-up care."
+"Patient: Michael Lee, 55-year-old male
+Admitting Diagnosis: Acute Myocardial Infarction (STEMI)
+Hospital Course: The patient presented with chest pain, shortness of breath, and diaphoresis. ECG showed ST-segment elevation in leads II, III, and aVF, confirming acute inferior STEMI. He underwent successful percutaneous coronary intervention (PCI) with stent placement. His symptoms improved post-procedure, and he was stable for discharge after 3 days of observation.
+Discharge Diagnosis: Acute Myocardial Infarction, STEMI
+Discharge Medications: Aspirin 81 mg daily, clopidogrel 75 mg daily, atorvastatin 20 mg at bedtime, metoprolol 50 mg twice daily
+Follow-Up: The patient is to follow up with cardiology in 1 week for a post-PCI evaluation and stress test in 4 weeks.","55-year-old male with STEMI treated with PCI, discharged with cardiology follow-up."
+"Patient: Sarah Thompson, 42-year-old female
+Admitting Diagnosis: Acute Appendicitis
+Hospital Course: The patient presented with right lower quadrant abdominal pain, fever, and nausea. CT scan confirmed acute appendicitis. She underwent laparoscopic appendectomy, which was uncomplicated. Postoperative recovery was uneventful, and she tolerated a regular diet on the second postoperative day. The patient was stable for discharge after 2 days of observation.
+Discharge Diagnosis: Acute Appendicitis, status post-laparoscopic appendectomy
+Discharge Medications: Hydrocodone/acetaminophen 5/325 mg every 4-6 hours as needed for pain, cephalexin 500 mg twice daily for 5 days
+Follow-Up: The patient is to follow up with general surgery in 1 week for a wound check and postoperative evaluation.","42-year-old female with acute appendicitis treated with laparoscopic appendectomy, discharged with pain management and follow-up care."
+"Patient: Robert Johnson, 76-year-old male
+Admitting Diagnosis: Congestive Heart Failure (CHF) exacerbation
+Hospital Course: The patient was admitted with dyspnea, peripheral edema, and fatigue. Chest X-ray showed bilateral pulmonary edema, and echocardiogram revealed reduced ejection fraction of 35%. He was treated with intravenous diuretics, ACE inhibitors, and low-sodium diet. His symptoms improved, and he was stable with reduced swelling at discharge.
+Discharge Diagnosis: Congestive Heart Failure, exacerbation
+Discharge Medications: Furosemide 40 mg daily, enalapril 10 mg twice daily, carvedilol 12.5 mg twice daily, spironolactone 25 mg daily
+Follow-Up: The patient is to follow up with cardiology in 1 week and primary care physician in 2 weeks for medication adjustment and management.","76-year-old male with CHF exacerbation treated with diuretics and ACE inhibitors, discharged with follow-up care."
+"Patient: Emily Carter, 29-year-old female
+Admitting Diagnosis: Acute Gastroenteritis
+Hospital Course: The patient presented with vomiting, diarrhea, and abdominal cramping for 48 hours. Stool studies were negative for bacterial infections, and she was diagnosed with viral gastroenteritis. She was treated with intravenous fluids and antiemetics. After 24 hours of IV hydration, her symptoms improved, and she was able to tolerate oral intake.
+Discharge Diagnosis: Acute Gastroenteritis
+Discharge Medications: Ondansetron 4 mg every 8 hours as needed for nausea
+Follow-Up: The patient is to follow up with her primary care physician if symptoms persist for more than 48 hours.","29-year-old female with viral gastroenteritis treated with fluids and antiemetics, discharged with follow-up instructions."
